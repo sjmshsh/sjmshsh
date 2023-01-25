@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjmshsh&show_icons=true&theme=radical)
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjmshsh&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sjmshsh&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sjmshsh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **sjmshsh/sjmshsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
