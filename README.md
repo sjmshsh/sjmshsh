@@ -1,6 +1,8 @@
 ### Hi there 👋
+<div align="center"> <img src="https://camo.githubusercontent.com/5fe6e00f946bcae1a90fd75133a77e867027485bb7f52f2da02bed04357b5ef5/68747470733a2f2f73746174732e6a757374736f6e672e636e2f6170692f6373646e3f69643d71715f3631303339343038" /> </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjmshsh&show_icons=true&theme=radical)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjmshsh&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjmshsh" /> </div>
 
