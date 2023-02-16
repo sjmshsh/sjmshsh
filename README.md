@@ -8,7 +8,7 @@
 
 后端实习经历
 
-- 绿盟科技 - 服务BG部 (2023.2.14 - 至今)
+- NSFOCUS绿盟科技 - 服务BG部 (2023.2.14 - 至今)
 -- 职责：Go服务器安全开发
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
