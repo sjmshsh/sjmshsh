@@ -9,7 +9,7 @@
 后端实习经历
 
 - NSFOCUS绿盟科技 - 服务BG部 (2023.2.14 - 至今)
--- 职责：Go服务器安全开发。使用Gin+Gorm进行公测平台的开发。
+-- 职责：Go服务器安全开发。使用Gin+Gorm进行公测平台的开发。开发自动化工具RyzelAST，支撑公司源代码安全审计服务以及客户侧的DevSecOps工具需求。完善IAST核心引擎，开发golang版本的代码漏洞检测agent。
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
 
