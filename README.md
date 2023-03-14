@@ -17,8 +17,6 @@
 来看看我的博客吗: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
 
 
-<div align="center"> <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=sjmshsh&show_icons=true&theme=radical" /> </div>
-
 
 <!--
 **sjmshsh/sjmshsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
