@@ -1,20 +1,19 @@
 ### Hi there 👋
-我是李鑫阳，目前就读于湖北大学，软件工程专业(本科)。是一名热爱技术和开源的25届学生，目前正在参与Apache Dubbo的Admin管理系统的项目，主要是Prometheus一块儿的。平常喜欢写博客。我不被某一个语言所局限，同时拥有C/C++，Go，Java的代码经验，平时以基础学习(操作系统，计算机网络，数据结构与算法，MySQL，Redis)为主线的同时，格外的去拓展了其他编程语言及其框架的使用。
+I am Li Xinyang, currently studying at Hubei University, majoring in software engineering (undergraduate). I am a 25-year-old student who loves technology and open source. I am currently participating in the project of Apache Dubbo's Admin management system, mainly with Prometheus. I usually like to blog. I am not limited by a certain language, and have code experience in C/C++, Go, and Java. I usually focus on basic learning (operating system, computer network, data structure and algorithm, MySQL, Redis) Expanded use of other programming languages and their frameworks.
 
-后端学习时间（2022.4.13 -- 至今）
+backend learning time（2022.4.13 -- to date）
 
-- 目前学习比较深入的技术栈：Linux操作系统，计算机网络，MySQL，Redis
-- 未来打算接触的：kubernetes的详细知识。
+- Currently learning more in-depth technology stack: Linux operating system, computer network, MySQL, Redis
+- What I plan to contact in the future: detailed knowledge of kubernetes.
 
-后端实习经历
+Backend Internship Experience
 
-- NSFOCUS绿盟科技 - 服务BG部 (2023.2.14 - 至今)
--- 职责：Go服务器安全开发。使用Gin+Gorm进行公测平台的开发。开发自动化工具RyzelAST，支撑公司源代码安全审计服务以及客户侧的DevSecOps工具需求。完善IAST核心引擎，开发golang版本的代码漏洞检测agent。 
+- NSFOCUS - Service BG Department (2023.2.14 - to data)
+-- Responsibilities: Go server security development. Use Gin+Gorm to develop the public test platform. Develop the automation tool RyzelAST to support the company's source code security audit service and the client's DevSecOps tool requirements. Improve the IAST core engine and develop the golang version of the code vulnerability detection agent.
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
 
-
-来看看我的博客吗: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
+want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sjmshsh"> </div>
