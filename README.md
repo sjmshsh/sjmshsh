@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Li Xinyang, currently studying at Hubei University, majoring in software engineering (undergraduate). I am a College students graduating in 2025 who loves technology and open source. I am currently participating in the project of Apache Dubbo's Admin management system, mainly with Prometheus. I usually like to blog. I am not limited by a certain language, and have code experience in C/C++, Go, and Java. I usually focus on basic learning (operating system, computer network, data structure and algorithm, MySQL, Redis) Expanded use of other programming languages and their frameworks. 
 
-backend learning time（2022.4.13 -- to date）
+backend learning time（2021.10.13 -- to date）
 
 - Currently learning more in-depth technology stack: Linux operating system, computer network, MySQL, Redis
 - What I plan to contact in the future: detailed knowledge of kubernetes.
