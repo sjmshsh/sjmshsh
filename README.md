@@ -24,7 +24,7 @@ want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击�
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sjmshsh"> </div>
 
 
-![李鑫阳's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjmshsh GitHub ID&layout=compact&hide_border=true&langs_count=10)
+![李鑫阳's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjmshsh)
 <!--
 **sjmshsh/sjmshsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
