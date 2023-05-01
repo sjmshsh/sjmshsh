@@ -1,5 +1,5 @@
 ### Hi there 👋
-我是李鑫阳，我喜欢开源贡献，正在贡献apache dubbo并疯狂的学习想追上大佬们的步伐。
+我是李鑫阳，我喜欢开源贡献，正在贡献apache dubbo并疯狂的学习想追上大佬们的步伐，希望在明年秋招的时候可以拿到中厂offer！
 
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
