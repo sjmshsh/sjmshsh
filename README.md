@@ -1,5 +1,7 @@
 ### Hi there 👋
-我是李鑫阳，C++和Go，希望在明年秋招的时候可以拿到中厂offer！(最好是拿到嵌入式Linux内核驱动的offer！！)
+我是李鑫阳，C++和Go，爱好：存储方向。
+实习经历：绿盟科技Go服务器开发
+开源经历：Apache Dubbo
 
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
