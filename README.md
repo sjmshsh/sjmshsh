@@ -1,7 +1,7 @@
 ### Hi there 👋
 我是李鑫阳，C++和Go，做过业务，搞过云原生，但是最终发现爱好偏底层，例如存储。
 实习经历：绿盟科技Go服务器开发
-开源经历：Apache Dubbo
+开源经历：Apache Dubbo。
 
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
