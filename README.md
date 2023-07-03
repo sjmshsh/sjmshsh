@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 我是李鑫阳，大二在读，C++和Go。apache dubbo-admin代码核心贡献者.
+- 我是李鑫阳，大二在读，C++和Go。Apache dubbo-admin代码核心贡献者.
 - 擅长技能：docker，kubernetes，Linux操作系统。
-- 实习经历：绿盟科技股份有限公司Go服务器开发，主要职责是devsecops的建设开发。
+- 实习经历：绿盟科技股份有限公司Go服务器开发，主要职责是DevSecOps的建设开发，推进开发，安全，运维一体化。
 - 开源经历：Apache Dubbo
-  - 控制面可观测性建设
+  - dubbo控制面可观测性建设
   - dubbo的流量管控适配至kubernetes
-  - 重构dubbo控制面
+  - 重构dubbo控制面代码
 
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
