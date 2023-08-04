@@ -8,7 +8,6 @@
   - dubbo控制面可观测性建设
   - dubbo的流量管控适配至kubernetes
   - 重构dubbo控制面代码
-  - dds协议创始人
 
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
