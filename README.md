@@ -3,7 +3,7 @@
 
 - 我是李鑫阳，大三在读。**非常擅长服务网格**，有这方面爱好的小伙伴们可以和我一起交流。
 - 实习经历：绿盟科技Go基础层开发，字节跳动Go后端开发。
-- 开源经历：apache dubbo社区，cncf helm，knative func
+- 开源经历：apache dubbo社区核心贡献者，cncf helm，knative func，kubernetes。
 
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
