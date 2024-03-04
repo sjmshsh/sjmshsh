@@ -2,7 +2,7 @@
 
 
 - 我是李鑫阳，大三在读。
-- 实习经历：绿盟科技基础架构，字节跳动后端开发
+- 实习经历：绿盟科技基础架构，字节跳动后端开发，哔哩哔哩后端开发
 - 开源经历：apache dubbo社区，cncf helm，knative func
  
  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
