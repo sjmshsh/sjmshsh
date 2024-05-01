@@ -3,8 +3,6 @@
 
 - 我是李鑫阳，大三在读。
  
- <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_61039408"> </div>
-
 want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
 
 
