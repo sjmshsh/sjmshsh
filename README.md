@@ -2,6 +2,8 @@
 
 
 - 我是李鑫阳，大三在读。
+- apache dubbo-kubernetes项目启动者之一
+- 绿盟，字节，b站，快手实习
  
 want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
 
