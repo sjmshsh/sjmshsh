@@ -7,7 +7,7 @@ intern at
 
 now work at TikTok
 
-contribute to apache dubbo-kubernetes, kuma
+contribute to apache dubbo-kubernetes, kuma，
 apache dubbo committer
 
  
