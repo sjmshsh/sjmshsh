@@ -7,7 +7,7 @@ intern at
 
 now work at TikTok
 
-contribute to apache dubbo-kubernetes, kuma，apache dubbo committer
+contribute to apache dubbo-kubernetes, kuma, apache dubbo committer
 
  
 want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
