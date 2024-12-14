@@ -5,8 +5,6 @@ intern at
 - bilibili
 - kuaishou
 
-now work at TikTok
-
 contribute to apache dubbo-kubernetes, kuma, apache dubbo committer
 
  
