@@ -1,12 +1,16 @@
 ### Hi there 👋
 
+I am lxy, 21 years old
+
 intern at
 - bytedance(dcar)
 - bilibili
 - kuaishou
 
+now work at bytedance(tiktok)
 contribute to apache dubbo-kubernetes, kuma, apache dubbo committer
 
+Learning: Distributed Storage
  
 want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
 
