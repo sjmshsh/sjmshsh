@@ -8,6 +8,7 @@ intern at
 - kuaishou
 
 now work at bytedance(tiktok)
+
 contribute to apache dubbo-kubernetes, kuma, apache dubbo committer
 
 Learning: Distributed Storage
