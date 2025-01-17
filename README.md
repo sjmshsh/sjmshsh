@@ -7,7 +7,7 @@ intern at
 - bilibili
 - kuaishou
 
-now work at bytedance(tiktok)
+now work at xiaomi AI Infra
 
 contribute to apache dubbo-kubernetes, kuma, apache dubbo committer
 
