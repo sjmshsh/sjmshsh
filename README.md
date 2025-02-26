@@ -7,7 +7,8 @@ intern at
 - bilibili
 - kuaishou
 
-now work at xiaomi AI Infra
+Currently working in advertising and growth-related businesses at Baidu.
+
 
 contribute to apache dubbo-kubernetes, kuma, apache dubbo committer
 
