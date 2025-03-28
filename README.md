@@ -15,7 +15,7 @@
 
 随时看新的工作机会。wx：Misaka_-_-_Mikoto
 
-正在学习：分布式系统（DDIA，存储等）
+正在学习：分布式系统（DDIA，存储等），大模型
 
 
 want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
