@@ -6,6 +6,8 @@
     - 负责dubbo-kubernetes，dubbo-kubernetes布道者。目前正在进行的是跨集群以及LLM相关的改造
   - Kong社区
     - Kuma：参与代码优化
+- 实习经历：bilibili，字节跳动
+
 
 
 随时看新的工作机会。wx：Misaka_-_-_Mikoto qq: 1550693033
