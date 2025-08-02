@@ -6,13 +6,14 @@
     - 负责dubbo-kubernetes，dubbo-kubernetes布道者。目前正在进行的是跨集群以及LLM相关的改造
   - Kong社区
     - Kuma：参与代码优化
-- 实习经历：bilibili，字节跳动
-
+- 工作
+  - 腾讯：主要从事用户增长，广告相关体系建设
 
 
 随时看新的工作机会。wx：Misaka_-_-_Mikoto qq: 1550693033
 
-正在学习：分布式系统（DDIA，存储等），大模型LLM
+正在学习：分布式系统（DDIA，存储等），大模型LLM（Agent工程，模型推理训练工程），机器学习，深度学习
+目前主要看的论文是广告领域的
 
 
 want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
