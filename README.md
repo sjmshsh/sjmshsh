@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-- 我叫李鑫阳，我对各个业务领域都比较感兴趣，例如推广搜，用增，风控，交易，支付等系统。同时，我对云原生领域有非常深刻的研究和见解。
+- 我叫李鑫阳，我在腾讯从事强化学习平台开发，对业务场景做sft和rl的训练。
 - 开源经历
   - Apache Dubbo社区：（Apache Dubbo Commiter）
     - 负责dubbo-kubernetes，dubbo-kubernetes布道者。目前正在进行的是跨集群以及LLM相关的改造
   - Kong社区
     - Kuma：参与代码优化
 - 工作
-  - 腾讯：主要从事推荐，用户增长，广告相关体系建设
+  - 腾讯
 
 
 随时看新的工作机会。wx：Misaka_-_-_Mikoto qq: 1550693033
 
-正在学习：分布式系统（DDIA，存储等），大模型LLM（Agent工程，模型推理训练工程），机器学习，深度学习
-目前主要看的论文是广告领域的
+正在学习：vllm，RL Infra，RL算法
 
 
 want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
