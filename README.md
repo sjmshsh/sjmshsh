@@ -15,9 +15,7 @@
 
 正在学习：vllm，RL Infra，RL算法
 
-正在给：vllm，cuLA，AReal做开源贡献，正在进行kvcache长序列化优化
-
-want to see my blog: <a href="https://blog.csdn.net/qq_61039408" title="点击这里">点击这里</a>
+正在给：vllm，cuLA，AReal做开源贡献，正在打kvcache长序列化优化的比赛
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sjmshsh"> </div>
