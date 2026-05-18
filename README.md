@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 我叫李鑫阳，我在腾讯从事agent系统构建，对业务场景做sft和rl的训练以及广告投放业务中台的开发（对接很多个app）。
 - 开源经历
   - Apache Dubbo社区：（Apache Dubbo Commiter）
     - 负责dubbo-kubernetes，dubbo-kubernetes布道者。目前正在进行的是跨集群以及LLM相关的改造
   - Kong社区
-    - Kuma：参与代码优化
+    - Kuma
+  - Cula
+  - vllm
 - 工作
   - 腾讯
 
