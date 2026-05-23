@@ -3,10 +3,10 @@
 - 开源经历
   - Apache Dubbo社区：（Apache Dubbo Commiter）
     - 负责dubbo-kubernetes，dubbo-kubernetes布道者。目前正在进行的是跨集群以及LLM相关的改造
-  - Kong社区
-    - Kuma
+  - Kuma
   - Cula
   - vllm
+  - sglang
 - 工作
   - 腾讯
 
