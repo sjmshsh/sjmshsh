@@ -17,9 +17,6 @@
 
 正在给：vllm，cuLA，AReal做开源贡献，正在打kvcache长序列化优化的比赛
 
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sjmshsh"> </div>
-
 <!--
 **sjmshsh/sjmshsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
