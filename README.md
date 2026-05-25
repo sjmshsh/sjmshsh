@@ -2,7 +2,7 @@
 
 - 开源经历
   - Apache Dubbo社区：（Apache Dubbo Commiter）
-    - 负责dubbo-kubernetes，dubbo-kubernetes布道者。目前正在进行的是跨集群以及LLM相关的改造
+    - 负责dubbo-kubernetes，dubbo-kubernetes创始人。目前正在进行的是跨集群以及LLM相关的改造
   - Kuma
   - Cula
   - vllm
