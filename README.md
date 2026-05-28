@@ -7,6 +7,7 @@
   - Cula
   - vllm
   - sglang
+  - sglang-omni
 - 工作
   - 腾讯
 
