@@ -9,7 +9,8 @@
   - sglang
   - sglang-omni
 - 工作
-  - 腾讯
+  - 千卡集群推理平台从0到1落地经验
+  - 腾讯，Agent，大模型后训练经验
 
 
 随时看新的工作机会。wx：Misaka_-_-_Mikoto qq: 1550693033
