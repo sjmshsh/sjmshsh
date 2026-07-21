@@ -3,11 +3,11 @@
 - 开源经历
   - Apache Dubbo社区：（Apache Dubbo Commiter）
     - 负责dubbo-kubernetes，dubbo-kubernetes创始人。目前正在进行的是跨集群以及LLM相关的改造
-  - Kuma
-  - Cula
+  - vllm-omni
   - vllm
   - sglang
   - sglang-omni
+  - Cula
 - 工作
   - 快手（实习）：k8s gpu调度器开发
   - 腾讯，Agent，大模型后训练经验
