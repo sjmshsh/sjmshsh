@@ -1,23 +1,13 @@
 ### Hi there 👋
 
-- 开源经历
-  - Apache Dubbo社区：（Apache Dubbo Commiter）
-    - 负责dubbo-kubernetes，dubbo-kubernetes创始人。目前正在进行的是跨集群以及LLM相关的改造
-  - vllm-omni
-  - vllm
-  - sglang
-  - sglang-omni
-  - Cula
 - 工作
- - 快手
- - 腾讯
+ - 快手（实习），万卡集群GPU调度
+ - 腾讯，推理部署，调度
+ - 蔚来汽车，推理训练框架，加速，算子，编译，全干工程师
 
 
 随时看新的工作机会。wx：Misaka_-_-_Mikoto qq: 1550693033
 
-正在学习：vllm，RL Infra，RL算法
-
-正在给：vllm，cuLA，AReal做开源贡献，正在打kvcache长序列化优化的比赛
 
 <!--
 **sjmshsh/sjmshsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
